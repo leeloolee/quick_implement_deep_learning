@@ -1,3 +1,6 @@
 # quick_implement_deep_learning
-1. GAN
-2. DQN
+GAN
+  2020-09-26 GAN
+  2020-09-27 DCGAN
+Reinforcement Learning
+  DQN
