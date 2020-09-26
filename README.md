@@ -4,4 +4,6 @@ GAN
 - 2020-09-27 DCGAN
 </br>
 Reinforcement Learning
+
 - DQN
+- 
