@@ -1,2 +1,2 @@
 # quick_implement_deep_learning
-안보고
+1. GAN
